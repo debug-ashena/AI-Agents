@@ -14,3 +14,12 @@
 3. در فایل افزونه، مقدار `PAHNA_AI_KEY` را با کلید API خود جایگزین کنید (یا در `wp-config.php` ست کنید):
 ```php
 define('PAHNA_AI_KEY', 'aa-your-api-key');
+
+## Tech Stack
+- PHP 8.2
+- WordPress REST API
+- Vanilla JavaScript
+- CSS
+- DeepSeek Chat
+- AvalAI / OpenAI-compatible API
+
